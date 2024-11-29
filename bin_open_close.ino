@@ -1,9 +1,9 @@
 #include <Servo.h>   //servo library
 Servo servo;     
-int trigPin = 5;    
-int echoPin = 6;   
-int servoPin = 7;
-int led= 10;
+int trigPin = ;    //enter pin numbers for all
+int echoPin = ;   
+int servoPin = ;
+int led= ;
 long duration, dist, average;   
 long aver[3];   //array for average
 
