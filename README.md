@@ -42,7 +42,9 @@ An IoT-based smart bin solution using Arduino Uno and ESP8266 to improve waste m
 ---
 
 ## 📐 Circuit Diagram
-![Circuit Diagram](https://github.com/varsha-2024-snu/smartbin/blob/main/arduino%20pin%20diagram.jpeg)  
+![Arduino circuit Diagram](https://github.com/varsha-2024-snu/smartbin/blob/main/arduino%20pin%20diagram.jpeg) 
+
+![ESP circuit Diagram](https://github.com/varsha-2024-snu/smartbin/blob/main/esp%20pin%20diagram.jpeg)  
 
 ---
 
