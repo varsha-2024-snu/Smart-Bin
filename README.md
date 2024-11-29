@@ -41,11 +41,6 @@ An IoT-based smart bin solution using Arduino Uno and ESP8266 to improve waste m
 
 ---
 
-## 📐 Circuit Diagram
-![Circuit Diagram](link-to-circuit-diagram-image)  
-*(Upload your circuit diagram image to GitHub and update the link above.)*
-
----
 
 ## ⚙️ How It Works
 1. **Lid Automation:**
