@@ -1,18 +1,18 @@
 #include <ESP8266WiFi.h>
 #include <ESP_Mail_Client.h>
-#define WIFI_SSID "SSN"
-#define WIFI_PASSWORD "Ssn1!Som2@Sase3#"
+#define WIFI_SSID "wifi_name"
+#define WIFI_PASSWORD "wifi_pswd"
 #define SMTP_server "smtp.gmail.com"
 #define SMTP_Port 465
-#define sender_email "smartbin00alert@gmail.com"
-#define sender_password "uorw ggnl manz fchh"
-#define Recipient_email "mvarshapillai@gmail.com"
-#define Recipient_name "Varsha" // it can be filled or left blank
+#define sender_email "senderemail@gmail.com"
+#define sender_password "sender_pswd"
+#define Recipient_email "recipientemail@gmail.com"
+#define Recipient_name "name" // it can be filled or left blank
 SMTPSession smtp;
 
-const int trigPin = 27; 
-const int echoPin = 26;  
-const int dusbin_threshold = 5;
+const int trigPin = ; //enter pin num
+const int echoPin = ;  //enterpin num
+const int dusbin_threshold = ; //enter threshold
 int distance;
 long duration; 
 bool dustbin_filled = true;
