@@ -37,10 +37,14 @@ An IoT-based smart bin solution using Arduino Uno and ESP8266 to improve waste m
 - Dustbin
 
 ### Software
-- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Arduino IDE](https://www.arduino.cc/en/softwar)
 
 ---
 
+## 📐 Circuit Diagram
+![Circuit Diagram](https://github.com/varsha-2024-snu/smartbin/blob/main/arduino%20pin%20diagram.jpeg)  
+
+---
 
 ## ⚙️ How It Works
 1. **Lid Automation:**
